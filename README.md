@@ -40,3 +40,21 @@ Aviso Legal
 
 - Responsabilidade: Este bot deve ser usado com responsabilidade. Certifique-se de que os membros do seu servidor estão cientes e consentem com a natureza das postagens do bot.
 - Restrições de Idade: Este bot deve ser usado apenas em servidores onde todos os membros atendam aos requisitos de idade necessários para visualizar conteúdo adulto.
+
+Preview
+----------
+
+- menu inicial:
+
+
+<img src="https://media.discordapp.net/attachments/1221481201026597005/1222438307280060456/image.png?ex=66163764&is=6603c264&hm=f07645711912cec9a871e4f33e9b82be6743a2e8500033cfb8a9f4aa12d05f59&=&format=webp&quality=lossless&width=493&height=251">
+
+- menu de configuração:
+
+  
+<img src="https://media.discordapp.net/attachments/1221481201026597005/1222439208522612747/image.png?ex=6616383b&is=6603c33b&hm=bac3b86a6b33f7dc23af1a7324d2080c86b6b5566e23292a0ea94307f3e7a028&=&format=webp&quality=lossless&width=567&height=438">
+
+- preview do envio ( não vai borrada, eu que borrei ):
+  
+
+<img src="https://i.imgur.com/BR8xBek.jpeg">
