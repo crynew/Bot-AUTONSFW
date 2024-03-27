@@ -110,7 +110,7 @@ async function sendpussyImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -138,7 +138,7 @@ async function sendanalImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -166,7 +166,7 @@ async function sendassImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -194,7 +194,7 @@ async function sendboobsImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -250,7 +250,7 @@ async function sendfeetImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -278,7 +278,7 @@ async function sendhentaiImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -307,7 +307,7 @@ async function sendhassImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -335,7 +335,7 @@ async function sendhkitsuneImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -363,7 +363,7 @@ async function sendhmidriffImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -391,7 +391,7 @@ async function sendhnekoImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
@@ -419,7 +419,7 @@ async function sendyaoiImage() {
           .setImage(imageUrl)
           .setAuthor({ name: server.name, iconURL: server.iconURL()});
 
-        channel.send(embed);
+         channel.send({ embeds: [embed] });
       } else {
         console.log('Servidor não encontrado.');
       }
